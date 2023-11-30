@@ -1,0 +1,18 @@
+Los retos con sus respectivas flags:
+
+basiste 1 << 5   =>  CT{MuchosSabenBase64PeroPocosBase32}
+desarrollador senior  => flag{Te pienso mas que las paginas indexadas por google.}
+molestemos a tu cerebro => CTF{EnUnMundoDondePuedesSerCualquierCosa,SeAmable}
+templarios    =>  vamossigueadelante
+hashdump      =>   coldplay
+crack hashes (6 hashes) el ultimo => n63umy8lkf4i
+hash con salt     =>   481616481616
+hash1 kerberos  =>  abc123!@#
+easy1	=>	CRYPTOISFUN
+rail fence   =>  CTF{h0y3ss4b4d0yn0h4c3fr10}
+yaz	=>	uno dos tres respira
+substitution0 =>   picoCTF{5UB5717U710N_3V0LU710N_59533A2E}
+substitution1 =>   picoCTF{FR3QU3NCY_4774CK5_4R3_C001_6E0659FB}
+RSA reto 1  =>   dsc{t00_much_m4th_8898}
+RSA reto 2   =>  6393313697836242618414301946448995659516429576261871356767102021920538052481829568588047189447471873340140537810769433878383029164089236876209147584435733
+ssh2john =>  12345678
